@@ -1,0 +1,18 @@
+{
+  "name": "pdfmaster-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5",
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.33.4",
+    "stripe": "^14.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "uuid": "^9.0.1"
+  }
+}
